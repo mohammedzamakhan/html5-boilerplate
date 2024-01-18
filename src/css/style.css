@@ -14,6 +14,15 @@
   font-weight: bold;
 }
 
+#counter-button:hover {
+  background-color: #E60000; /* Darker shade of red for the hover state */
+}
+
+#counter-button:active {
+  background-color: #CC0000; /* Even darker red to simulate a pressed effect */
+  transform: translateY(2px); /* Optional: Adds a subtle push-down effect on click */
+}
+
 #counter-value {
   font-size: 1.5rem;
 }
