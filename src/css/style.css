@@ -1,0 +1,19 @@
+#counter-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#counter-button {
+  padding: 10px 15px;
+  cursor: pointer;
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+#counter-value {
+  font-size: 1.5rem;
+}
