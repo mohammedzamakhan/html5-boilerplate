@@ -7,7 +7,7 @@
 #counter-button {
   padding: 10px 15px;
   cursor: pointer;
-  background-color: #008CBA;
+  background-color: #FF0000; /* Updated to red color */
   color: white;
   border: none;
   border-radius: 5px;
