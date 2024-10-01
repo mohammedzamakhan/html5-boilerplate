@@ -43,6 +43,8 @@ Guidelines for bug reports:
 3. **Isolate the problem** &mdash; ideally create a [reduced test
    case](https://css-tricks.com/reduced-test-cases/) and a live example.
 
+4. **Use the bug report template** &mdash; please use the [bug report template](.github/ISSUE_TEMPLATE/bug_report.md) when creating a new issue. This helps ensure that all necessary information is provided.
+
 A good bug report shouldn't leave others needing to chase you up for more
 information. Please try to be as detailed as possible in your report. What is
 your environment? What steps will reproduce the issue? What browser(s) and OS

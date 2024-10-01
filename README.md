@@ -109,12 +109,12 @@ write about your project.
 ## Contributing
 
 Hundreds of developers have helped to make the HTML5 Boilerplate. Anyone is
-welcome to [contribute](.github/CONTRIBUTING.md). However, if you decide to get
-involved, please take a moment to review the [guidelines](.github/CONTRIBUTING.md):
+welcome to contribute. However, if you decide to get involved, please take a moment to review our guidelines:
 
-- [Bug reports](.github/CONTRIBUTING.md#bugs)
-- [Feature requests](.github/CONTRIBUTING.md#features)
-- [Pull requests](.github/CONTRIBUTING.md#pull-requests)
+- For bug reports, please use our [bug report template](.github/ISSUE_TEMPLATE/bug_report.md)
+- For feature requests and other contributions, please refer to our [contributing guidelines](.github/CONTRIBUTING.md)
+
+We appreciate your help in making HTML5 Boilerplate better!
 
 ## License
 
